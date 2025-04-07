@@ -1,0 +1,1 @@
+DataCamp certificates are digital credentials awarded to learners who complete courses, career tracks, and skill tracks on DataCamp, an online learning platform specializing in data science, machine learning, Python, R, SQL, and other technical subjects.
